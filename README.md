@@ -1,4 +1,4 @@
-# Machine Learning Journey 🚀
+# Machine Learning Journey 
 
 This repository documents my daily progress while learning Machine Learning from scratch.  
 Each folder represents one day of learning, including concepts, code notebooks, and visualizations.
